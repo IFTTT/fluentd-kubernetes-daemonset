@@ -105,7 +105,7 @@ GEM
     json (1.8.6)
     jsonpath (1.1.0)
       multi_json
-    jwt (2.2.2)
+    jwt (2.2.3)
     kubeclient (4.9.1)
       http (>= 3.0, < 5.0)
       jsonpath (~> 1.0)
@@ -180,4 +180,4 @@ DEPENDENCIES
   oj (= 3.11.0)
 
 BUNDLED WITH
-   2.2.3
+   2.2.15
